@@ -1,5 +1,6 @@
 second file, with some data
 
+branch will be created from 5th commit and 7th master commit will be merged onto new branch using cherry pick
 this is forth commit 
 this is data from third commit --- we will create new branch from here
 this is data from second commit
