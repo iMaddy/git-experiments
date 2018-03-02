@@ -1,5 +1,6 @@
 second file, with some data
 
+this 7th commit is being merged on cherry-pick-branch which is checked out from 5th commit on master (lets see)
 branch will be created from 5th commit and 7th master commit will be merged onto new branch using cherry pick
 this is forth commit 
 this is data from third commit --- we will create new branch from here
